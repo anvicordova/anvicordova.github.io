@@ -26,7 +26,7 @@ github_username:  anvicordova
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: moving
 plugins:
   - jekyll-feed
 
