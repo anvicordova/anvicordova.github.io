@@ -24,7 +24,7 @@ github_username:  anvicordova
 
 # Build settings
 markdown: kramdown
-theme: moving
+remote_theme: huangyz0918/moving
 plugins:
   - jekyll-feed
 
