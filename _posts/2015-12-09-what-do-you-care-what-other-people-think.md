@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  What do you care what other people think?
-date:   2015-12-09
+title: What do you care what other people think?
+date: 2015-12-09
 categories: books, reading diary
 ---
 

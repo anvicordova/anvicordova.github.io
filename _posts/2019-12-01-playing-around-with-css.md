@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Playing around with CSS"
-date:   2019-12-01
+title: Playing around with CSS
+date: 2019-12-01
 categories: css
 ---
 This weekend tiny project was about creating some CSS only image.

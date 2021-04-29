@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Gracias por todo IBM(ers)
-date:   2016-01-08
+title: Gracias por todo IBM(ers)
+date: 2016-01-08
 categories: work
 ---
 

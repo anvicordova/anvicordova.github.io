@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Un dia programando con Argentina en Python
-date:   2016-01-17
+title: Un dia programando con Argentina en Python
+date: 2016-01-17
 categories: programming, code, learn to code
 ---
 

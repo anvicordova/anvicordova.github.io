@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Hola Able
-date:   2016-12-03
+title: Hola Able
+date: 2016-12-03
 categories: work
 ---
 

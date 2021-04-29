@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mi viaje al hermoso Callejón de Huaylas - Áncash"
-date:   2015-09-26
+title: Mi viaje al hermoso Callejón de Huaylas - Áncash
+date: 2015-09-26
 categories: viajes, ancash
 ---
 
